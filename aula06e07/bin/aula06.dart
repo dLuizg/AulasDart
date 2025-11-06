@@ -1,3 +1,5 @@
+//Código das 3 últimas aulas: 22/10, 29/10 e 05/1
+
 import 'dart:math';
 
 final aleatorio = Random();
